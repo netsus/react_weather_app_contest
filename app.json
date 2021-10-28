@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "contest_react_weather_app",
-    "slug": "contest_react_weather_app",
+    "name": "contest-react-weather-app",
+    "slug": "contest-react-weather-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

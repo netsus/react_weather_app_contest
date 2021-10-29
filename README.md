@@ -15,3 +15,8 @@ weather app contest in Nomad Coders
  npm install --global expo-cli
 
 4. React Native : 스마트폰으로 들어오는 입력을 Native부분이 받으면 이를 javascript로 전달해주는 역할을 하고, javascript에서 처리된 내용을 스마트폰의 OS로 전달하는 역할을 한다. 즉, 스마트폰의 OS와 Javascript사이의 Bridge 역할을 한다.
+
+* 추가 설치
+ 1) sudo npm i axios
+ 2) sudo npm i expo-linear-gradient
+ 3) sudo npm i expo-location
